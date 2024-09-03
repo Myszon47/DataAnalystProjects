@@ -12,3 +12,5 @@ You can find projects I completed during my Data Analyst training in this reposi
 - The fifth project is creating a Data Professional Survey data dashboard using PowerBi.
 
 ![obraz](https://github.com/user-attachments/assets/6c366322-9c2f-49d4-9e0e-bf5cdafde051)
+
+- The sixth and final project from the Data Analyst Bootcamp involves pulling data from the Crypto Website API using Python.
